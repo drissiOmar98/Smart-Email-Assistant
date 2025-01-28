@@ -1,0 +1,36 @@
+/* Container Styling */
+.container {
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 5rem;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #fffdff, #e0f7fa);
+}
+
+/* Text Input Styling */
+.MuiTextField-root {
+    background-color: white !important;
+    border-radius: 8px;
+}
+
+/* Button Styling */
+.MuiButton-root {
+    transition: background-color 0.3s ease;
+}
+
+/* Loading spinner background */
+.MuiCircularProgress-root {
+    color: #1976d2;
+}
+
+/* General Margins */
+.MuiBox-root {
+    margin-top: 20px;
+}
+
+/* Enhanced Error Messages */
+.MuiAlert-root {
+    font-size: 16px;
+}
